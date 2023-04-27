@@ -1,8 +1,6 @@
-### Hi there 👋
+## Olá! 👋 Me chamo Anderson César, sou engenheiro eletricista e aprendiz de desenvolvimento!
 
-## Olá! Me chamo Anderson César, sou engenheiro eletricista e aprendiz de desenvolvimento!
-
-- 🌱 Estou atualmente estudando no bootcamp de KOTLIN da TQI pelo DIO.
+- 🌱 Estou atualmente estudando no bootcamp de KOTLIN da TQI pela DIO.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
