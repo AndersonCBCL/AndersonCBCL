@@ -1,13 +1,14 @@
 ## Olá! 👋 Me chamo Anderson César, sou engenheiro eletricista e aprendiz de desenvolvimento!
 
-- 🌱 Estou estudando pelo bootcamp de KOTLIN da TQI pela DIO.
+- 🌱 Estou estudando pelo Santander Bootcamp 2023 -  Mobile Android com Kotlin na DIO.
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="And-KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="And-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="And-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="And-KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+
 </div>
   
   ##
