@@ -1,7 +1,7 @@
 # Anderson César
 Me chamo Anderson César, sou engenheiro eletricista e aprendiz de desenvolvimento!
 
-🌱 Estou estudando pelo Santander Bootcamp 2023 -  Mobile Android com Kotlin na DIO.
+🌱.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/anderson_cbcl3?tab=skills)
